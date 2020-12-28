@@ -8,7 +8,6 @@ import java.awt.*;
 /**
  * A Test class for the model component and associated classes and interfaces.
  *
- * @author 200010566
  */
 public class ShapeTest {
 
